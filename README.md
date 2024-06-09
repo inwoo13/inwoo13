@@ -3,6 +3,8 @@
 가톨릭대학교 물리학과 19학번<br>
 ✉️ lys91892@gmail.com <br>
 💻 UMC-4th,5th 첼린저(안드로이드)
+포트폴리오
+https://lead-whistle-2dd.notion.site/460a4efe346349139a7fe93ec575c73b?pvs=4
 <div><h2>📚 STACKS</h2></div>
 <div>   
   <img src="https://img.shields.io/badge/Kotlin-75F2FF?style=for-the-badge&logo=Kotlin&logoColor=white"/>
